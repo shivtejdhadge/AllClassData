@@ -1,0 +1,35 @@
+<html>
+<body>
+<h1>Create a new Account</h1>
+<img src="C:\Users\USER\Desktop\Website Design Text Files/download.jpg"></img>
+<h5>It's quik and and easy</h5><br>
+<input type="text" id="text" 	placeholder="UserName"> <input type="text id="text" placeholder="Sirname"><br>
+<br>
+<input type="text" id="text" placeholder="Mobile number or email address"><br>
+<br>
+<input type="text" id="text" placeholder="Password"><br>
+<br>
+<label>Date of birth</label><br>
+<br>
+<input type="Date" id="datemin" name="datemin" min="1950-1-1"><br>
+<br>
+
+<label>Gender</label><br>
+
+<label>Male</label><input type="radio" id="male" main="male" value="male">
+
+<label>Female</label>
+<input type="radio" id="female" main="female" value="female"><br>
+<br>
+
+<h6>By clicking Sign Up, you agree to our Terms, Data Policy and Cookie Policy. You may receive SMS notifications from us and can opt out at any time.</h6>
+<br>
+<input style="background-color:Green" input type="Sign up" id="Sign up" value="Sign up" ><br>
+<br>
+<br>
+<a href="https://www.facebook.com/campaign/landing.php?campaign_id=14884913640&extra_1=s%7Cc%7C550525805943%7Ce%7Cfb%20sign%20up%7C&placement=&creative=550525805943&keyword=fb%20sign%20up&partner_id=googlesem&extra_2=campaignid%3D14884913640%26adgroupid%3D128696221832%26matchtype%3De%26network%3Dg%26source%3Dnotmobile%26search_or_content%3Ds%26device%3Dc%26devicemodel%3D%26adposition%3D%26target%3D%26targetid%3Dkwd-23300271256%26loc_physical_ms%3D1007788%26loc_interest_ms%3D%26feeditemid%3D%26param1%3D%26param2%3D&gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZseQ0ybO3imC_IGzbNgPB04GgRz0KWdOGkrVeEdCFYIl88yWJIXwEaAmBSEALw_wcB"><label>Already have an account?</label>
+
+
+
+</html>
+</body>

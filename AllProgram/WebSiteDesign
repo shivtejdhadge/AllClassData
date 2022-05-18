@@ -1,0 +1,58 @@
+<html>
+<body>
+
+<body style= "background-color:DodgerBlue;">
+<h1 style="color:Tomato";>Welcome to the Shivtej' World of Automation</h1>
+
+<label>Username</label>
+<input type= "text" id="Username" placeholder="EnterUserName" name="Username"><br>
+<br>
+
+<label>Password</label>
+<input type="text" id="Password"  placeholder="EnterPassword" name="Password"><br>
+<br>
+
+<label>Email</label>
+<input type="text" id="Email" placeholder="EnterEmail-ID" name="Email"><br>
+<br>
+
+<label>Gender</label>
+<input type="radio" id="male" name="male" value="male">
+<label>Male</label>
+<input type="radio" id="female" name="female" value="female">
+<label>Female</label><br>
+<br>
+
+<label>Date Of Birth</label>
+<input type="date" id="datemin" name="datemin" min="1950-01-01"><br>
+<br>
+<label>Country</label>
+<select name="country" id="country">
+      <option value="india">India</option>
+      <option value="China">China</option>
+       <option value="America">America</option>
+        <option value="Bangladesh">Bangladesh</option>
+
+</select>
+<br>
+<br>
+<input type="checkbox">
+<label>I Accept all Terms & Conditions</label><br>
+<br>
+
+<input type="Submit" value="Submit"><br>
+
+<a href="https://www.facebook.com/login/identify">Forgot Password</a>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+

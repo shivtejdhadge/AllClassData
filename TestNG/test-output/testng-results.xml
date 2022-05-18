@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-14T02:14:43 IST" name="Default suite" finished-at="2022-05-14T02:15:05 IST" duration-ms="22460">
+    <groups>
+    </groups>
+    <test started-at="2022-05-14T02:14:43 IST" name="Default test" finished-at="2022-05-14T02:15:05 IST" duration-ms="22460">
+      <class name="POM_PageFactory.FaceBookMainPageTest">
+        <test-method signature="SetUp()[pri:1, instance:POM_PageFactory.FaceBookMainPageTest@77eca502]" started-at="2022-05-14T02:14:43 IST" name="SetUp" finished-at="2022-05-14T02:14:59 IST" duration-ms="16373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="link()[pri:1, instance:POM_PageFactory.FaceBookMainPageTest@77eca502]" started-at="2022-05-14T02:14:59 IST" name="link" finished-at="2022-05-14T02:15:05 IST" duration-ms="5858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- link -->
+      </class> <!-- POM_PageFactory.FaceBookMainPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Master_Suite">
+	
+  <test  name="Master Test">
+    <classes>
+      <class name="Grouping.ClassNo1"/>
+      <class name="Grouping.ClassNo2"/>
+      <class name="Grouping.ClassNo3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

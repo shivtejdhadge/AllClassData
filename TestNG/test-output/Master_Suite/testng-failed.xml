@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Master_Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Master Test(failed)">
+    <classes>
+      <class name="Grouping.ClassNo1">
+        <methods>
+          <include name="Test3"/>
+          <include name="CloseBrowser"/>
+          <include name="OpenDB"/>
+          <include name="ClaseDB"/>
+          <include name="LauchBrowser"/>
+        </methods>
+      </class> <!-- Grouping.ClassNo1 -->
+    </classes>
+  </test> <!-- Master Test(failed) -->
+</suite> <!-- Failed suite [Master_Suite] -->

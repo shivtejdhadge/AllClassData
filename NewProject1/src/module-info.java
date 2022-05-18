@@ -1,0 +1,2 @@
+module NewProject1 {
+}

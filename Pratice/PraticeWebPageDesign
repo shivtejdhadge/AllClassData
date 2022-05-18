@@ -1,0 +1,87 @@
+<html>
+<body>
+<h1>Facebook</h1>
+<label>UserName</label>
+<input type="text" id="username" name="usernsme"><br>
+<br>
+
+<label>Password</label>
+<input type="text" id="password" name="password"><br>
+<br>
+
+<label>Mobile No</label>
+<input type="text" id="mobile no" name="mobile no"><br>
+<br>
+
+<label>Date of Birth</label>
+<input type="Date" datemin="datemin" min=1950-1-1><br>
+<br>
+
+<label>Gender</label>
+<input type="radio" id="Male" name="Male" >
+<label>Male</label>
+<input type="radio" if="female" name="female">
+<label>Female</label><br>
+<br>
+
+<label>country</label>
+<select name="country" id="country" >
+     <option value="india">India</option>
+     <option value ="China">China</option>
+     <option value="USA">USA</option>
+     </selection><br>
+     <br>
+<input type="checkbox" id="terms &condition">
+<label>I accept all Term Aand Conditions</label><br>
+<br>
+
+<body style="background-color:DodgerBlue;">
+<input type="Submit" value="submit">
+<br>
+
+
+<a href="www.Fb.com">ForgotPassword<a/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+</body>

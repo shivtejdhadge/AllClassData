@@ -1,0 +1,30 @@
+<html>
+<body>
+
+<div>
+Username<input type="text" id="username"><br>
+<br>
+Password<input type="text" id="username">
+</div>
+<br>
+
+<div>
+Male<input type="radio" id="Male"><br>
+Female<input type="radio" id="female">
+</div>
+<br>
+
+<div>
+<a href="www.link1.com">Link1</a><br>
+<a href="www.link2.com">Link2</a><br>
+<input type="button" value="login">
+</div>
+
+
+
+
+
+
+
+</html>
+</body>

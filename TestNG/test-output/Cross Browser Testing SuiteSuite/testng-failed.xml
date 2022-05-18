@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Cross Browser Testing SuiteSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="FireFox Test(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="ParaMeterization_CrossBrowser.AllBrowserTseting">
+        <methods>
+          <include name="verifyCurrentURL"/>
+          <include name="verifyUsernameField"/>
+          <include name="verifyPageTitle"/>
+          <include name="verifyPasswordField"/>
+          <include name="CrossBrowserTesting" invocation-numbers="0"/>
+          <include name="clickLoginButton"/>
+        </methods>
+      </class> <!-- ParaMeterization_CrossBrowser.AllBrowserTseting -->
+    </classes>
+  </test> <!-- FireFox Test(failed) -->
+</suite> <!-- Failed suite [Cross Browser Testing SuiteSuite] -->
